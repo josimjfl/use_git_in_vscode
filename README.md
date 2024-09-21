@@ -1,5 +1,5 @@
 
-#### Using Git in VS Code Command Line
+#### Using Git in VS Code Command Line. Git tutorial.
 
 Follow these steps to use Git in the VS Code integrated terminal (CMD):
 
