@@ -1,7 +1,6 @@
-
 #### Using Git in VS Code Command Line. Git tutorial.
 
-Follow these steps to use Git in the VS Code integrated terminal (CMD):
+## Follow these steps to use Git in the VS Code integrated terminal (CMD):
 
 ## 1. Install Git
 - If you haven’t already, download and install Git from [Git's official website](https://git-scm.com/).
